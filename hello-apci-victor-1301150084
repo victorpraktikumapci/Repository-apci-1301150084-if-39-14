@@ -1,6 +1,12 @@
-    Program Hello;
+    Program apci-1301150084;
     Uses Crt; 
     Begin
         ClrScr;
-        Writeln(‘Hello World’);
+        Writeln(‘Hello’);
+        Writeln(‘1301150084’);
+        Writeln(‘Victor Leadero Sanjaya’);
+        Writeln(‘if39-14’);
+        Writeln(‘victor’);
+        Writeln(‘1301154546’);
+        Writeln(‘modul 6’);
     End.
